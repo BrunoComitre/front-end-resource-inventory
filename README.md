@@ -227,7 +227,7 @@ Below is a list of downloads:
 
 Front-End study projects:
 
-- [TEXT](LINK)
+- [HTML5-Notifications-and-Socket.io](https://github.com/hugodias/HTML5-Notifications-and-Socket.io)
 - [TEXT](LINK)
 
 [GO TO INDEX](#index)
