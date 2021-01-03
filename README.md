@@ -239,7 +239,7 @@ Front-End study projects:
 Links from different sites:
 
 - [fullPage - Create Beautiful Fullscren Scrolling Websites](https://alvarotrigo.com/fullPage/) [EN-US]
-- [TEXT](LINK)
+- [Bootstrap Templates & Themes](https://startbootstrap.com/themes/)
 
 [GO TO INDEX](#index)
 
