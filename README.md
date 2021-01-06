@@ -240,6 +240,8 @@ Links from different sites:
 
 - [fullPage - Create Beautiful Fullscren Scrolling Websites](https://alvarotrigo.com/fullPage/) [EN-US]
 - [Bootstrap Templates & Themes](https://startbootstrap.com/themes/)
+- [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+- [A Guide to Securing Node.js Applications](https://dev.to/shaikhshahid/a-guide-to-securing-node-js-applications-4bcc)
 
 [GO TO INDEX](#index)
 
