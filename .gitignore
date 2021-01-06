@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ### PYTHON ###
 
 # Byte-compiled / optimized / DLL files
@@ -196,14 +194,10 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
->>>>>>> 40a765b83eee9d67ac7f75a8886e965695bc61d7
 ### VSCODE ###
 
 .vscode
 .vscode/*
-<<<<<<< HEAD
-.DS_Store
-=======
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -219,4 +213,3 @@ ipython_config.py
 # Complexity
 output/*.html
 output/*/index.html
->>>>>>> 40a765b83eee9d67ac7f75a8886e965695bc61d7
