@@ -262,7 +262,7 @@ Below are lists with more content that increase the capacity of this list to x10
 
 ## Notes
 
-Space to add front-end notes:
+Space to add Front-End notes:
 
 ```
 ADD NOTES HERE
