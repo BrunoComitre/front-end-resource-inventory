@@ -37,6 +37,7 @@
 
 repository updates:
 
+- [ ] Open sites and verify that they are active and that they are part of the repository.
 - [ ] Idea Project Front-End Tasks [gaGO.io - Public Roadmap](https://app.productstash.io/gagoio#current)
 
 [GO TO INDEX](#index)
