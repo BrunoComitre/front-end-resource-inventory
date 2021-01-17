@@ -28,6 +28,7 @@
   - [Download](#download)
 - [GitHub Projects](#gitHub-projects)
 - [Good Separate Texts](#good-separate-texts)
+  - [Authentication](#authentication)
 - [Awesome Lists](#awesome-lists)
 - [Notes](#notes)
 
@@ -60,7 +61,7 @@ Below is a list of favorite sites that have a variety of topics related to front
 
 It is always nice to add a short column for role models nearby that inspire you:
 
-- [TEXT](LINK)
+- [Khalil Stemmler](https://khalilstemmler.com/)
 - [TEXT](LINK)
 
 [GO TO INDEX](#index)
@@ -244,6 +245,22 @@ Links from different sites:
 - [Bootstrap Templates & Themes](https://startbootstrap.com/themes/)
 - [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 - [A Guide to Securing Node.js Applications](https://dev.to/shaikhshahid/a-guide-to-securing-node-js-applications-4bcc)
+
+[GO TO INDEX](#index)
+
+<br />
+
+### Authentication
+
+Theme Autentication for Front-End:
+
+- [JSON Web Token Generate](https://jwt.io/)
+- [Getting to know JWT](https://blog.codeexpertslearning.com.br/conhecendo-o-jwt-114afbfcad95)
+- [Understanding the oAuth 2.0 standard](https://medium.com/trainingcenter/entendendo-o-padr%C3%A3o-oauth-2-0-e0d0cfa0b53)
+- [Connect App to Microsoft Azure AD With AMPLIFY API Management](https://dzone.com/articles/connect-app-to-microsoft-azure-ad-with-amplify-api)
+- [Official OAuth Website](https://auth0.com/)
+- [Snowflake Role-Based Access Control simplified](https://medium.com/weareservian/snowflake-role-based-access-control-simplified-41a3ddf34729)
+- [Role-Based Access Control (RBAC): Permissions vs. Roles](https://medium.com/@adriennedomingus/role-based-access-control-rbac-permissions-vs-roles-55f1f0051468)
 
 [GO TO INDEX](#index)
 
