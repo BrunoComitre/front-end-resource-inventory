@@ -270,7 +270,7 @@ Theme Autentication for Front-End:
 
 Below are lists with more content that increase the capacity of this list to x1000:
 
-- [TEXT](LINK)
+- [Free Developer Resources](https://github.com/codeSTACKr/free-developer-resources)
 - [TEXT](LINK)
 
 [GO TO INDEX](#index)
