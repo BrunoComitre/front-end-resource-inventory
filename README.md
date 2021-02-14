@@ -50,8 +50,10 @@ repository updates:
 
 Below is a list of favorite sites that have a variety of topics related to front-end development in general:
 
+- [Web Almanac - Updated Development Methodologies](https://almanac.httparchive.org/en/2020/table-of-contents) [EN-US]
+- [Parameters HTTP Raw Logs](https://learn.akamai.com/en-us/webhelp/datastream/datastream-user-guide/GUID-56313AE3-C16F-4BCF-9D83-C26DE737F762.html) [EN-US]
+- [HTTP headers and common query string parameters for JSON](https://cloud.google.com/storage/docs/json_api/v1/parameters) [EN-US]
 - [Khalil Blog - TypeScript & Node.js best practices](https://khalilstemmler.com//) [EN-US]
-- [TEXT](LINK)
 
 [GO TO INDEX](#index)
 
