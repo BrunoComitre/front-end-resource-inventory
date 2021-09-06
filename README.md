@@ -263,6 +263,9 @@ Theme Autentication for Front-End:
 - [Official OAuth Website](https://auth0.com/)
 - [Snowflake Role-Based Access Control simplified](https://medium.com/weareservian/snowflake-role-based-access-control-simplified-41a3ddf34729)
 - [Role-Based Access Control (RBAC): Permissions vs. Roles](https://medium.com/@adriennedomingus/role-based-access-control-rbac-permissions-vs-roles-55f1f0051468)
+- [7 GitHub projects essential for every Javascript developer](https://dev.to/ankit01oss/7-github-projects-essential-for-every-javascript-developer-258i)
+- [package.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-json#repository)
+- [Melhores Práticas em Node.js](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.brazilian-portuguese.md)
 
 [GO TO INDEX](#index)
 
