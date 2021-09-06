@@ -1,0 +1,5 @@
+Component: ng g or generate c or component <name>
+
+Module: ng g or generate m or module <name>
+
+Services: ng g or generate s or services <name>
