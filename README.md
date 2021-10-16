@@ -234,6 +234,7 @@ Front-End study projects:
 
 - [HTML5-Notifications-and-Socket.io](https://github.com/hugodias/HTML5-Notifications-and-Socket.io)
 - [PatoGordo/SOLID-typescript-api-template](https://github.com/PatoGordo/SOLID-typescript-api-template)
+- [DanfoJS](https://github.com/opensource9ja/danfojs)
 
 [GO TO INDEX](#index)
 
