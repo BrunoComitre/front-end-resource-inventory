@@ -233,7 +233,7 @@ Below is a list of downloads:
 Front-End study projects:
 
 - [HTML5-Notifications-and-Socket.io](https://github.com/hugodias/HTML5-Notifications-and-Socket.io)
-- [TEXT](LINK)
+- [PatoGordo/SOLID-typescript-api-template](https://github.com/PatoGordo/SOLID-typescript-api-template)
 
 [GO TO INDEX](#index)
 
@@ -266,6 +266,8 @@ Theme Autentication for Front-End:
 - [7 GitHub projects essential for every Javascript developer](https://dev.to/ankit01oss/7-github-projects-essential-for-every-javascript-developer-258i)
 - [package.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-json#repository)
 - [Melhores Práticas em Node.js](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.brazilian-portuguese.md)
+- [AngularJS Material](https://material.angularjs.org/latest/)
+
 
 [GO TO INDEX](#index)
 
